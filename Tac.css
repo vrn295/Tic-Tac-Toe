@@ -1,19 +1,22 @@
-.btn-light{
-    font-size: 70px;
-    padding-bottom: 100px;
-    border-style: solid;
-    border-color: black;
-    border-width: thick;
-    text-align: center;
-    height: 140px;
-    width: 150px;
+.btn-light {
+  font-size: 70px;
+  padding-bottom: 100px;
+  border-style: solid;
+  border-color: black;
+  border-width: thick;
+  text-align: center;
+  height: 140px;
+  width: 150px;
 }
-body{
-      background-image: linear-gradient(#d4fc79,#96e6a1);
-} 
+body {
+  overflow: hidden;
+  font-family: sans-serif;
+  background-image: linear-gradient(#d4fc79, #96e6a1);
+  height: 800px;
+}
 
-#head{
-    font-size: 40px;
-    text-align: center;
-    color: black;
+#head {
+  font-size: 40px;
+  text-align: center;
+  color: black;
 }
